@@ -5,14 +5,14 @@
   I don't know if it's actually the right way... but each code of each language must be placed in the same script, just creating its respective field, for example:
 To put the JS part of the code, create one:
 
-~code in html
+. code in html
 
 For the JS: 
 <script>
-  put the JS code here
+. put the JS code here
 </script> 
 \
 For the CSS:
 <style>
-css code
+. css code
 </style>
